@@ -1,1 +1,3 @@
-# BoltAdditionTutorial
+# Boltの足し算ゲームチュートリアル
+
+Boltを使ったゲームのチュートリアルデータのリポジトリです。
